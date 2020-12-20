@@ -1,0 +1,4 @@
+# textdomain: hades_fire
+Fire=
+Permanent Fire=
+Flint and Steel=
